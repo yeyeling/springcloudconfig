@@ -8,3 +8,4 @@ spring:
           default-label:  master # 配置仓库的分支。如果是本地读取，可不配置
           username: 1146517161@qq.com
           password: psw18792276566
+test
